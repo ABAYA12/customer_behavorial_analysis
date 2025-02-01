@@ -10,7 +10,7 @@ This project analyzes e-commerce user behavior data to help predict where to pla
 
 ## Folder Structure
 ```
-ecommerce_behaviorial_analysis/
+customer_behaviorial_analysis/
 ├── main.py                     # Main script to run the workflow
 ├── process_data.py             # Downloads, processes, and cleans data
 ├── setup_database.py           # Sets up PostgreSQL database
